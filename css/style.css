@@ -6,7 +6,8 @@
   font-style: normal;
   font-display: block; }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^='icon-'],
+[class*=' icon-'] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: never;
@@ -20,19 +21,19 @@
   -moz-osx-font-smoothing: grayscale; }
 
 .icon-x:before {
-  content: "\e905"; }
+  content: '\e905'; }
 
 .icon-magnifying-glass:before {
-  content: "\e900"; }
+  content: '\e900'; }
 
 .icon-user:before {
-  content: "\e901"; }
+  content: '\e901'; }
 
 .icon-facebook:before {
-  content: "\e902"; }
+  content: '\e902'; }
 
 .icon-twitter:before {
-  content: "\e903"; }
+  content: '\e903'; }
 
 .icon-youtube:before {
-  content: "\e904"; }
+  content: '\e904'; }
